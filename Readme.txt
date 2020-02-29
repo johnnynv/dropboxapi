@@ -10,6 +10,4 @@ Build: Apache Maven
 ----------------------Executables--------------------------------------
 A JAR file (dropbox-client.jar) has been located in the folder “OptileLovesDropbox” and ready for executing.
 ----------------------Ease of access-----------------------------------
-In case you need ease of access (auth*** and testing), please use the following application information:
-	- App key: m6zu9xvgx0etno9
-	- App secret: 728ve7d5fosak1z
+Use your own app key and app secret to run the program
